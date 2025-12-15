@@ -16,6 +16,7 @@ A dashboard that predicts stadium-area congestion and recommends actions to redu
 ---
 
 ## Repo structure
+```text
 Stadium-CrowdFlow/
   README.md
   CONTRIBUTING.md
@@ -46,7 +47,7 @@ Stadium-CrowdFlow/
     .keep
   scripts/
     .keep
-
+```text
 
 ---
 
