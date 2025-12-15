@@ -120,7 +120,7 @@ Large datasets
 
 See:
 
-``docs/TASKS.md` (task board + owners)
+`docs/TASKS.md` (task board + owners)
 
 `docs/DECISIONS.md` (final decisions log)
 
