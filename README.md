@@ -16,30 +16,36 @@ A dashboard that predicts stadium-area congestion and recommends actions to redu
 ---
 
 ## Repo structure
-stadium-crowdflow/
-    README.md
-    CONTRIBUTING.md
-    .gitignore
-    .env.example
-    docs/
+Stadium-CrowdFlow/
+  README.md
+  CONTRIBUTING.md
+  LICENSE
+  .gitignore
+  .env.example
+  docker-compose.yml
+  docs/
     TASKS.md
     DECISIONS.md
     pitch/
     screenshots/
-    data/
-    raw/ # ignored
-    processed/ # ignored
-    sample/ # small committed examples
-    backend/
+  data/
+    raw/          # ignored (no big data in git)
+    processed/    # ignored
+    sample/       # small committed examples (CSV/JSON)
+  backend/
     app/
-    main.py
-    api/
-    services/
-    models/
+      main.py
+      api/
+      services/
+      models/
     tests/
-    frontend/
-    notebooks/
-    scripts/
+    pyproject.toml
+  frontend/
+    .keep
+  notebooks/
+    .keep
+  scripts/
+    .keep
 
 
 ---
