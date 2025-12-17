@@ -150,4 +150,4 @@ Read CONTRIBUTING.md before your first PR.
 
 ### License
 
-TBD (MIT recommended for hackathon projects).
+TBD .
